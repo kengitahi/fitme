@@ -15,12 +15,18 @@ a {
   box-sizing: border-box;
 }
 
+
+/* TODO: Remember to change this once the poroject is done, comments are original values */
 @media (prefers-color-scheme: dark) {
   html {
-    color-scheme: dark;
+    /* color-scheme: dark; */
+    color-scheme: normal;
   }
+
   body {
-    color: white;
-    background: black;
+    /* color: white;
+    background: black; */
+    color: inherit;
+    background: inherit;
   }
 }

@@ -1,0 +1,10 @@
+export { default as Nav } from './Nav';
+export { default as Hero } from './Hero';
+export { default as Testimonials } from './Testimonials'
+export { default as PopularDiets } from './PopularDiets'
+export { default as DeliveryAreas } from './DeliveryAreas'
+export { default as MakeAnOrder } from './MakeAnOrder'
+export { default as Why } from './Why'
+export { default as BlogSection } from './BlogSection'
+export { default as FAQ } from './FAQ'
+export { default as Footer } from './Footer'
